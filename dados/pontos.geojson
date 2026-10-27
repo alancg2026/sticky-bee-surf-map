@@ -1,0 +1,426 @@
+{
+  "type": "FeatureCollection",
+  "name": "pontos_sticky_bee_surf_map",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.4686, -27.6788] },
+      "properties": {
+        "id": "surf-campeche",
+        "nome": "Campeche",
+        "categoria": "surf",
+        "municipio": "Florianópolis",
+        "regiao": "Ilha de Santa Catarina",
+        "tipo_pico": "Praia de areia com diferentes bancos",
+        "movimento": "Movimento frequente, especialmente em fins de semana e no verão.",
+        "consistencia": "Exposição ao oceano; as condições variam conforme ondulação, vento e bancos de areia.",
+        "experiencia": "Intermediária; verifique as condições e escolha um trecho compatível com sua experiência.",
+        "descricao": "Praia extensa no sul da Ilha de Santa Catarina, conhecida por sua paisagem aberta e prática de surf.",
+        "caracteristicas": "Praia oceânica, faixa de areia extensa e diferentes zonas de arrebentação.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.4439, -27.6298] },
+      "properties": {
+        "id": "surf-joaquina",
+        "nome": "Joaquina",
+        "categoria": "surf",
+        "municipio": "Florianópolis",
+        "regiao": "Leste da Ilha de Santa Catarina",
+        "tipo_pico": "Praia oceânica com fundo de areia",
+        "movimento": "Movimento alto, sobretudo durante o verão e em dias de boas ondas.",
+        "consistencia": "Praia exposta, sujeita à variação de bancos de areia, ondulação e vento.",
+        "experiencia": "Intermediária a avançada; avalie a força do mar antes de entrar.",
+        "descricao": "Praia tradicional do surf catarinense, em uma área costeira cercada por dunas.",
+        "caracteristicas": "Arrebentação exposta, ondas variáveis e dunas no entorno.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.4245, -27.6037] },
+      "properties": {
+        "id": "surf-praia-mole",
+        "nome": "Praia Mole",
+        "categoria": "surf",
+        "municipio": "Florianópolis",
+        "regiao": "Leste da Ilha de Santa Catarina",
+        "tipo_pico": "Praia oceânica com fundo de areia",
+        "movimento": "Movimento frequente durante o ano, com maior procura no verão.",
+        "consistencia": "Exposta às ondulações; condições variam com o vento e o estado do mar.",
+        "experiencia": "Intermediária; a corrente e o tamanho das ondas podem mudar rapidamente.",
+        "descricao": "Praia de mar aberto na costa leste da ilha, com acesso por trilha e escadaria.",
+        "caracteristicas": "Areia fofa, ondas e correntes variáveis, vegetação costeira.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.4249, -27.5743] },
+      "properties": {
+        "id": "surf-barra-da-lagoa",
+        "nome": "Barra da Lagoa",
+        "categoria": "surf",
+        "municipio": "Florianópolis",
+        "regiao": "Leste da Ilha de Santa Catarina",
+        "tipo_pico": "Praia de areia próxima ao canal da Barra",
+        "movimento": "Movimento frequente, especialmente no verão.",
+        "consistencia": "A condição depende da ondulação e da dinâmica local de bancos e correntes.",
+        "experiencia": "Iniciante a intermediária em condições adequadas; procure orientação local.",
+        "descricao": "Praia e comunidade tradicional no leste da Ilha de Santa Catarina, próxima ao canal que liga a lagoa ao mar.",
+        "caracteristicas": "Praia arenosa, canal e ambiente costeiro urbanizado.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.3984, -27.4906] },
+      "properties": {
+        "id": "surf-mocambique",
+        "nome": "Moçambique",
+        "categoria": "surf",
+        "municipio": "Florianópolis",
+        "regiao": "Norte da Ilha de Santa Catarina",
+        "tipo_pico": "Praia oceânica extensa com fundo de areia",
+        "movimento": "Em geral menos concentrado que praias urbanas; pode aumentar no verão.",
+        "consistencia": "Praia exposta ao oceano, sujeita a variações de ondulação e vento.",
+        "experiencia": "Intermediária; considere distância, corrente e condições de acesso.",
+        "descricao": "Praia extensa inserida em ambiente de restinga e dunas, junto ao Parque Estadual do Rio Vermelho.",
+        "caracteristicas": "Longa faixa de areia, restinga e ambiente natural protegido no entorno.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.3701, -27.4672] },
+      "properties": {
+        "id": "surf-santinho",
+        "nome": "Santinho",
+        "categoria": "surf",
+        "municipio": "Florianópolis",
+        "regiao": "Norte da Ilha de Santa Catarina",
+        "tipo_pico": "Praia oceânica com fundo de areia",
+        "movimento": "Movimento frequente, com maior procura na temporada de verão.",
+        "consistencia": "Exposta à ondulação; bancos, vento e correntes influenciam as condições.",
+        "experiencia": "Intermediária; confirme a condição do mar e a correnteza.",
+        "descricao": "Praia do norte da ilha com mar aberto, dunas e referências arqueológicas no entorno.",
+        "caracteristicas": "Areia, dunas, costões e ondas expostas.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.4008, -27.3973] },
+      "properties": {
+        "id": "surf-brava-florianopolis",
+        "nome": "Praia Brava de Florianópolis",
+        "categoria": "surf",
+        "municipio": "Florianópolis",
+        "regiao": "Norte da Ilha de Santa Catarina",
+        "tipo_pico": "Praia oceânica com fundo de areia",
+        "movimento": "Movimento mais intenso durante o verão e em dias de boas condições.",
+        "consistencia": "Praia exposta com ondas e correntes que podem ser fortes.",
+        "experiencia": "Intermediária a avançada; atenção especial à correnteza.",
+        "descricao": "Praia de mar aberto ao norte da Ilha de Santa Catarina, procurada para banho e surf.",
+        "caracteristicas": "Arrebentação exposta, morros e ocupação urbana no entorno.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.5353, -27.7515] },
+      "properties": {
+        "id": "surf-matadeiro",
+        "nome": "Matadeiro",
+        "categoria": "surf",
+        "municipio": "Florianópolis",
+        "regiao": "Sul da Ilha de Santa Catarina",
+        "tipo_pico": "Praia oceânica de acesso por trilha",
+        "movimento": "Movimento variável, geralmente menor que em praias com acesso por carro.",
+        "consistencia": "Exposta ao oceano e condicionada pela ondulação, vento e correntes.",
+        "experiencia": "Intermediária; planeje o acesso e confira as condições antes da caminhada.",
+        "descricao": "Praia no sul da ilha, acessível a pé a partir da Armação e situada em uma paisagem natural.",
+        "caracteristicas": "Acesso por trilha, costões e faixa de areia voltada ao mar aberto.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.5892, -27.9037] },
+      "properties": {
+        "id": "surf-guarda-do-embau",
+        "nome": "Guarda do Embaú",
+        "categoria": "surf",
+        "municipio": "Palhoça",
+        "regiao": "Litoral Centro-Sul",
+        "tipo_pico": "Praia oceânica e desembocadura do Rio da Madre",
+        "movimento": "Movimento frequente em feriados e no verão.",
+        "consistencia": "O encontro do rio com o mar e as condições oceânicas alteram correntes e bancos.",
+        "experiencia": "Intermediária; travessia, corrente e arrebentação exigem atenção.",
+        "descricao": "Praia e vila costeira em Palhoça, dentro do Parque Estadual da Serra do Tabuleiro.",
+        "caracteristicas": "Rio, restinga, morros e praia oceânica em área de conservação.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.6521, -28.1231] },
+      "properties": {
+        "id": "surf-praia-do-rosa",
+        "nome": "Praia do Rosa",
+        "categoria": "surf",
+        "municipio": "Imbituba",
+        "regiao": "Litoral Centro-Sul",
+        "tipo_pico": "Baía com praia oceânica",
+        "movimento": "Movimento alto na temporada e em períodos de boas ondas.",
+        "consistencia": "A baía oferece diferentes exposições; as condições mudam com ondulação e vento.",
+        "experiencia": "Intermediária; escolha o setor conforme as condições do dia.",
+        "descricao": "Baía costeira de Imbituba conhecida pela paisagem natural, praias e prática de surf.",
+        "caracteristicas": "Baía, costões, vegetação nativa e setores com diferentes exposições.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.6038, -28.2398] },
+      "properties": {
+        "id": "surf-praia-da-vila",
+        "nome": "Praia da Vila",
+        "categoria": "surf",
+        "municipio": "Imbituba",
+        "regiao": "Litoral Centro-Sul",
+        "tipo_pico": "Praia oceânica com fundo de areia",
+        "movimento": "Movimento frequente, com maior procura em eventos e na temporada.",
+        "consistencia": "Praia exposta, sujeita a ondulação e variações de bancos de areia.",
+        "experiencia": "Intermediária a avançada em dias de mar maior.",
+        "descricao": "Praia urbana de Imbituba com tradição no surf e realização de competições em diferentes períodos.",
+        "caracteristicas": "Faixa de areia ampla, mar aberto e infraestrutura urbana próxima.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.6217, -28.3464] },
+      "properties": {
+        "id": "surf-itapiruba",
+        "nome": "Itapirubá",
+        "categoria": "surf",
+        "municipio": "Imbituba",
+        "regiao": "Litoral Centro-Sul",
+        "tipo_pico": "Praia oceânica com fundo de areia",
+        "movimento": "Movimento variável, mais elevado durante a temporada de verão.",
+        "consistencia": "Trechos expostos ao mar aberto; bancos e correntes variam.",
+        "experiencia": "Intermediária; avalie o trecho escolhido e a corrente.",
+        "descricao": "Praia extensa na divisa entre os municípios de Imbituba e Laguna; ponto marcado no setor de Imbituba.",
+        "caracteristicas": "Praia arenosa, dunas e diferentes trechos de arrebentação.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.7795, -28.0533] },
+      "properties": {
+        "id": "surf-silveira",
+        "nome": "Silveira",
+        "categoria": "surf",
+        "municipio": "Garopaba",
+        "regiao": "Litoral Centro-Sul",
+        "tipo_pico": "Praia de enseada com fundo misto",
+        "movimento": "Movimento frequente entre surfistas, especialmente em dias de ondas.",
+        "consistencia": "Enseada exposta; ondas e corrente variam conforme ondulação e vento.",
+        "experiencia": "Intermediária a avançada; observe as condições e outros praticantes.",
+        "descricao": "Praia de Garopaba cercada por morros e vegetação, conhecida pela prática de surf.",
+        "caracteristicas": "Enseada, costões e ambiente natural no entorno.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.6278, -28.0615] },
+      "properties": {
+        "id": "surf-ferrugem",
+        "nome": "Ferrugem",
+        "categoria": "surf",
+        "municipio": "Garopaba",
+        "regiao": "Litoral Centro-Sul",
+        "tipo_pico": "Praia oceânica com fundo de areia",
+        "movimento": "Movimento intenso na alta temporada e em dias de boas ondas.",
+        "consistencia": "Mar aberto; bancos, vento e ondulação condicionam a qualidade das ondas.",
+        "experiencia": "Intermediária; considere o movimento de pessoas e a força do mar.",
+        "descricao": "Praia de Garopaba conhecida pelo surf, pela lagoa próxima e pelo ambiente costeiro.",
+        "caracteristicas": "Praia arenosa, costões e ligação com a Lagoa da Ferrugem.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.4143, -27.4822] },
+      "properties": {
+        "id": "protegida-rio-vermelho",
+        "nome": "Parque Estadual do Rio Vermelho",
+        "categoria": "protegida",
+        "municipio": "Florianópolis",
+        "regiao": "Norte da Ilha de Santa Catarina",
+        "tipo_pico": "",
+        "movimento": "Visitação concentrada em áreas e atividades autorizadas.",
+        "consistencia": "",
+        "experiencia": "",
+        "descricao": "Unidade de conservação estadual que protege ambientes de restinga, dunas, lagoas e trechos costeiros.",
+        "caracteristicas": "Restinga, dunas, lagoas e ecossistemas costeiros.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.4507, -27.6117] },
+      "properties": {
+        "id": "protegida-dunas-lagoa",
+        "nome": "Parque Natural Municipal das Dunas da Lagoa da Conceição",
+        "categoria": "protegida",
+        "municipio": "Florianópolis",
+        "regiao": "Leste da Ilha de Santa Catarina",
+        "tipo_pico": "",
+        "movimento": "Uso público sujeito às regras municipais e à conservação das dunas.",
+        "consistencia": "",
+        "experiencia": "",
+        "descricao": "Área natural municipal voltada à proteção de dunas e ambientes associados à Lagoa da Conceição.",
+        "caracteristicas": "Dunas, vegetação de restinga e paisagem lagunar.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.4258, -27.7347] },
+      "properties": {
+        "id": "protegida-lagoa-do-peri",
+        "nome": "Monumento Natural Municipal da Lagoa do Peri",
+        "categoria": "protegida",
+        "municipio": "Florianópolis",
+        "regiao": "Sul da Ilha de Santa Catarina",
+        "tipo_pico": "",
+        "movimento": "Visitação e atividades de lazer concentradas nas áreas permitidas.",
+        "consistencia": "",
+        "experiencia": "",
+        "descricao": "Unidade de conservação municipal que protege a Lagoa do Peri, remanescentes de Mata Atlântica e ambientes associados.",
+        "caracteristicas": "Lagoa de água doce, floresta atlântica e trilhas em áreas autorizadas.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.5481, -27.6864] },
+      "properties": {
+        "id": "protegida-pirajubae",
+        "nome": "Reserva Extrativista Marinha do Pirajubaé",
+        "categoria": "protegida",
+        "municipio": "Florianópolis",
+        "regiao": "Baía Sul da Ilha de Santa Catarina",
+        "tipo_pico": "",
+        "movimento": "Área de uso tradicional por comunidades extrativistas; acesso e atividades seguem regras próprias.",
+        "consistencia": "",
+        "experiencia": "",
+        "descricao": "Unidade de conservação federal de uso sustentável, criada para proteger o modo de vida tradicional e os recursos naturais da região.",
+        "caracteristicas": "Ambientes estuarinos e marinhos, manguezais e extrativismo tradicional.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.8000, -28.2000] },
+      "properties": {
+        "id": "protegida-baleia-franca",
+        "nome": "Área de Proteção Ambiental da Baleia Franca",
+        "categoria": "protegida",
+        "municipio": "Imbituba",
+        "regiao": "Litoral Centro-Sul de Santa Catarina",
+        "tipo_pico": "",
+        "movimento": "A APA abrange uma extensa faixa costeira e marinha com diferentes usos.",
+        "consistencia": "",
+        "experiencia": "",
+        "descricao": "Unidade federal de uso sustentável que protege habitats costeiros e marinhos e contribui para a conservação da baleia-franca-austral.",
+        "caracteristicas": "Área marinha e costeira extensa, praias, lagoas e habitats de baleias.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.7570, -27.8500] },
+      "properties": {
+        "id": "protegida-serra-tabuleiro",
+        "nome": "Parque Estadual da Serra do Tabuleiro",
+        "categoria": "protegida",
+        "municipio": "Palhoça",
+        "regiao": "Grande Florianópolis e litoral Centro-Sul",
+        "tipo_pico": "",
+        "movimento": "Visitação varia conforme setor, acesso e regras da unidade de conservação.",
+        "consistencia": "",
+        "experiencia": "",
+        "descricao": "Maior unidade de conservação estadual de proteção integral de Santa Catarina, com áreas costeiras e continentais.",
+        "caracteristicas": "Floresta Atlântica, restingas, ilhas, lagoas e nascentes.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.4112, -27.5753] },
+      "properties": {
+        "id": "iniciativa-tamar-florianopolis",
+        "nome": "Projeto Tamar de Florianópolis",
+        "categoria": "iniciativa",
+        "municipio": "Florianópolis",
+        "regiao": "Barra da Lagoa",
+        "tipo_pico": "",
+        "movimento": "Visitação pode variar conforme calendário e funcionamento da unidade.",
+        "consistencia": "",
+        "experiencia": "",
+        "descricao": "Centro de visitantes do Projeto Tamar voltado à educação ambiental e à conservação de tartarugas marinhas.",
+        "caracteristicas": "Educação ambiental, sensibilização e conservação da fauna marinha.",
+        "potencial_comercial": null,
+        "link_oficial": "",
+        "link_sticky_bee": "https://www.sbeesurf.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Mapa interativo de surf, natureza e sustentabilidade no litoral de Santa Catarina.">
+  <meta name="theme-color" content="#f5c400">
+  <title>Sticky Bee Surf Map — Surf e Natureza em Santa Catarina</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="preconnect" href="https://tile.openstreetmap.org">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" defer></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="Sticky Bee Surf Map, início">
+      <span class="brand-mark" aria-hidden="true">SB</span>
+      <span>
+        <span class="brand-name">Sticky Bee Surf Map</span>
+        <span class="brand-tagline">Surf, natureza e sustentabilidade em Santa Catarina</span>
+      </span>
+    </a>
+    <a class="visit-button" href="https://www.sbeesurf.com/" target="_blank" rel="noopener noreferrer">Visite a Sticky Bee <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <main class="app-layout">
+    <aside class="sidebar" id="sidebar" aria-label="Pesquisa e pontos de interesse">
+      <div class="sidebar-heading">
+        <div>
+          <p class="eyebrow">Explore o litoral</p>
+          <h1>Pontos de interesse</h1>
+        </div>
+        <button class="sidebar-toggle" id="sidebar-toggle" type="button" aria-expanded="true" aria-controls="sidebar-content">Ocultar painel</button>
+      </div>
+      <div id="sidebar-content" class="sidebar-content">
+        <form class="filters" id="filters">
+          <label for="search">Pesquisar por nome</label>
+          <input id="search" name="search" type="search" placeholder="Ex.: Campeche" autocomplete="off">
+
+          <label for="category">Categoria</label>
+          <select id="category" name="category">
+            <option value="">Todas as categorias</option>
+            <option value="surf">Surf e praias</option>
+            <option value="protegida">Áreas protegidas</option>
+            <option value="iniciativa">Iniciativas ambientais</option>
+          </select>
+
+          <label for="municipality">Município</label>
+          <select id="municipality" name="municipality">
+            <option value="">Todos os municípios</option>
+          </select>
+          <button class="clear-button" type="reset">Limpar filtros</button>
+        </form>
+
+        <div class="results-heading">
+          <h2>Resultados</h2>
+          <span id="results-count" class="results-count" aria-live="polite">Carregando…</span>
+        </div>
+        <p id="results-message" class="results-message" role="status" hidden></p>
+        <ul class="point-list" id="point-list" aria-label="Pontos encontrados"></ul>
+        <button class="show-all-button" id="show-all" type="button">Mostrar todos os pontos</button>
+
+        <section class="legend" aria-labelledby="legend-title">
+          <h2 id="legend-title">Legenda</h2>
+          <ul>
+            <li><span class="legend-marker surf" data-category="surf" aria-hidden="true"></span>Praias e picos de surf</li>
+            <li><span class="legend-marker protegida" data-category="protegida" aria-hidden="true"></span>Áreas protegidas</li>
+            <li><span class="legend-marker iniciativa" data-category="iniciativa" aria-hidden="true"></span>Iniciativas ambientais</li>
+          </ul>
+        </section>
+      </div>
+    </aside>
+
+    <section class="map-area" aria-label="Mapa interativo">
+      <div id="map" role="application" aria-label="Mapa de pontos de surf e conservação em Santa Catarina"></div>
+      <div class="map-note">Selecione um marcador ou ponto da lista para ver detalhes.</div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Projeto acadêmico de Programação Aplicada ao Geoprocessamento.</p>
+    <p>Dados cartográficos: <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">© OpenStreetMap</a>.</p>
+    <p>As informações de surf são gerais e não substituem previsão meteorológica, conhecimento local ou avaliação de segurança.</p>
+  </footer>
+</body>
+</html>
